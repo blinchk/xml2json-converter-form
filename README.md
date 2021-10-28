@@ -1,4 +1,4 @@
-# xml2json-converter-form
+# XML 2 JSON Converter in Vue.js application
 
 ## Project setup
 ```
